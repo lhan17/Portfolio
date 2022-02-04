@@ -1,0 +1,3 @@
+[submodule "keittokirja"]
+	path = keittokirja
+	url = https://github.com/lanh97/keittokirja
