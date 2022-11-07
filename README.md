@@ -7,3 +7,5 @@ This is repository for data projects created by Thinh Lam.
 2. Bitcoin price prediction with Twitter Sentiment Analysis
 3. Cookbook (keittokirja) python application (finnish)
 	- a web application with postgresql and other database implementations
+4. Flights school exercise
+  - pyspark dataframe, sparkSQL, data exploration. School exercise for the MOOC course Big data platforms.
