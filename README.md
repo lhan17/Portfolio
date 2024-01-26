@@ -12,3 +12,5 @@ This is repository for data projects created by Thinh Lam.
   	- pyspark dataframe, sparkSQL, data exploration. School exercise for the MOOC course Big data platforms.
 5. ALS Music Recommendation System Project
 	- Pyspark, rdd, dataframes, mllib
+6. Rate Repository app
+  - Graphql, react native, mobile application app. 
