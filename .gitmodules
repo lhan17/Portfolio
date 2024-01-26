@@ -1,3 +1,6 @@
 [submodule "keittokirja"]
 	path = keittokirja
 	url = https://github.com/lanh97/keittokirja
+[submodule "rate-repository-app"]
+	path = rate-repository-app
+	url = https://github.com/lhan17/rate-repository-app.git
