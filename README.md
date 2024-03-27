@@ -13,4 +13,4 @@ This is repository for data projects created by Thinh Lam.
 5. ALS Music Recommendation System Project
 	- Pyspark, rdd, dataframes, mllib
 6. Rate Repository app
-  - Graphql, react native, mobile application app. 
+  - Graphql, react native, mobile application 
